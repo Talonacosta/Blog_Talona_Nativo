@@ -11,10 +11,6 @@ Este é um blog simples, construído com HTML, CSS e JavaScript. O blog oferece 
 - Comentários nas postagens
 - Tema claro/escuro (opcional)
 
-## Capturas de Tela
-
-Inclua capturas de tela do seu aplicativo em ação. Você pode adicionar uma pasta "screenshots" ao seu repositório para armazenar essas imagens.
-
 ## Tecnologias Utilizadas
 
 - HTML
